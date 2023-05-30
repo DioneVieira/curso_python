@@ -4,4 +4,7 @@
 </div>
 <hr>
 
-Curso Python, CURSO EM VÍDEO.
+Cursos de Python:
+
+* Python para Analise de Dados - Data Viking (Youtube);
+* Mundo Python - Curso em Video;
